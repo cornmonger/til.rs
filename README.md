@@ -1,9 +1,9 @@
 # TIL in Rust
 
-```Today, I learned in Rust:
+Today, I learned in Rust:
 
 ## License (GPLv3)
-til.rs - TIL in Rust
+```til.rs - TIL in Rust
 Copyright (C) 2023 cornmonger.pub@cornmonger.fish
 
 This program is free software: you can redistribute it and/or modify
