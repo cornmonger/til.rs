@@ -3,7 +3,8 @@
 Today, I learned in Rust:
 
 ## License (GPLv3)
-```til.rs - TIL in Rust
+```
+til.rs - TIL in Rust
 Copyright (C) 2023 cornmonger.pub@cornmonger.fish
 
 This program is free software: you can redistribute it and/or modify
@@ -17,4 +18,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.```
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
